@@ -2,22 +2,22 @@
   "name": "auto-suggest",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Keerthanaa-1411/auto-suggest.git"
+    "url": "git+https://github.com/24wh1a05ar-art/auto-suggest.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Keerthanaa-1411/auto-suggest/issues"
+    "url": "https://github.com/24wh1a05ar-art/auto-suggest/issues"
   },
-  "homepage": "https://github.com/Keerthanaa-1411/auto-suggest#readme",
+  "homepage": "https://github.com/24wh1a05ar-art/auto-suggest#readme",
   "dependencies": {
     "express": "^5.2.1"
   }
