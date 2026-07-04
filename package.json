@@ -8,17 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/24wh1a05ar-art/auto-suggest.git"
+    "url": "git+https://github.com/Keerthanaa-1411/auto-suggest.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/24wh1a05ar-art/auto-suggest/issues"
+    "url": "https://github.com/Keerthanaa-1411/auto-suggest/issues"
   },
-  "homepage": "https://github.com/24wh1a05ar-art/auto-suggest#readme",
-  "dependencies": {
-    "express": "^5.2.1"
-  }
+  "homepage": "https://github.com/Keerthanaa-1411/auto-suggest#readme"
 }
